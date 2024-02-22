@@ -1,10 +1,10 @@
-# vue-how-long-until
+# Time Tracker
 
-This template should help get you started developing with Vue 3 in Vite.
+A simple project to calculate how long to go for the date you have chosen
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+![alt text](https://github.com/qusyairin/vue-how-long-until/blob/master/src/assets/image.png?raw=true)
+![alt text](https://github.com/qusyairin/vue-how-long-until/blob/master/src/assets/ss1.png?raw=true)
+![alt text](https://github.com/qusyairin/vue-how-long-until/blob/master/src/assets/ss2.png?raw=true)
 
 ## Customize configuration
 
